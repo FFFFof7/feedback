@@ -1,0 +1,20 @@
+{
+  "name": "feedback",
+  "version": "0.0.1",
+  "description": "An interactive component includes but is not limited to tooltip, alert, message...",
+  "main": "./dist/main.js",
+  "repository": "https://github.com/FFFFof7/feedback.git",
+  "author": "fanhuimin <fhm011101@126.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node_modules/.bin/webpack-dev-server"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.3.0",
+    "ts-loader": "^8.0.2",
+    "typescript": "^3.9.7",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
